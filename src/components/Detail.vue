@@ -396,14 +396,14 @@ watch(
           <small>Major: Information Technology</small>
         </div>
       </div>
-      <div class="edu-card mt-2">
+      <!-- <div class="edu-card mt-2">
         <div class="heading d-flex justify-content-between align-items-center">
           <span class="name">English</span>
         </div>
         <div class="desc">
           <small>Toeic: 550 point</small>
         </div>
-      </div>
+      </div> -->
       <div class="edu-card mt-2">
         <div class="heading d-flex justify-content-between align-items-center">
           <span class="name">Jobtest</span>
