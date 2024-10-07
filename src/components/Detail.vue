@@ -357,12 +357,7 @@ watch(
           </div>
           <div class="desc">
             <div class="section-data">
-              <div
-                class="project d-flex justify-content-between align-items-center"
-              >
-                <span style="font-weight: 600">Platform: Jobtest.vn</span>
-                <!-- <span>Jul 2022 - Aug 2023</span> -->
-              </div>
+              
               <div class="title">Intern</div>
               <div class="about">
                 Pix Interaction is a company specializing in IT solutions,
@@ -377,7 +372,7 @@ watch(
               <br />
               <ul class="mb-0">
                 <li>Create layout looks like a designer's design on Figma.</li>
-                <li>Apply REST API to get data and binding data.</li>
+                <li>Using ReactJS to apply REST API to get data and binding data.</li>
               </ul>
             </div>
           </div>
