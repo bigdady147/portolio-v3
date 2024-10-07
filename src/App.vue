@@ -10,7 +10,10 @@ const section_select = ref("home");
 </script>
 
 <template>
-  <Navbar></Navbar>
+  <div class="header">
+    <Navbar></Navbar>
+
+  </div>
   <div class="container cover">
     <div class="body-container row ">
       <div class="col-lg-4 ">
@@ -37,6 +40,7 @@ const section_select = ref("home");
 
 <style scoped>
 .cover {
-  padding: 100px 0px;
+  padding: 100px 10px;
+  overflow: hidden;
 }
 </style>

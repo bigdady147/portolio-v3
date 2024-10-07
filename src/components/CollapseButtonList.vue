@@ -48,7 +48,7 @@ const list_collapses = [
   {
     _id: 4,
     value: "education",
-    icon: "fa-solid fa-diagram-project",
+    icon: "fa-solid fa-medal",
   },
 ];
 const btn_selected = ref(props.section);
@@ -56,7 +56,6 @@ const btn_selected = ref(props.section);
 const emit = defineEmits(["change"]);
 
 watch(btn_selected, (value) => {
-  console.log(`x is ${value}`);
   emit("change", value);
 });
 </script>

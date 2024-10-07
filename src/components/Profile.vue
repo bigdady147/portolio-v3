@@ -29,13 +29,13 @@
           </div>
         </div>
       </a>
-      <a href="https://gitlab.com/annt9">
+      <!-- <a href="https://gitlab.com/annt9">
         <div class="btn-social">
           <div class="icon">
             <i style="color: orange" class="fa-brands fa-git-alt"></i>
           </div>
         </div>
-      </a>
+      </a> -->
     </div>
     <div class="infor">
       <div class="btn-infor">
