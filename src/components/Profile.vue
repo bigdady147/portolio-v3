@@ -69,7 +69,7 @@
       </div>
     </div>
     <div class="action">
-      <a href="/cv/cv.pdf" download>
+      <a href="/cv/nguyen_truong_an_resume.pdf" download>
         <div class="btn btn-sm download">Download Resume</div>
       </a>
     </div>
